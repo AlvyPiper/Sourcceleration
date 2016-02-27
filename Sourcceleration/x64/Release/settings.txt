@@ -1,0 +1,6 @@
+Sensitivity = 0.9125
+SensitivityCap = 2
+ExponentAmt = 1.05
+CountType = 2
+AccelerationType = 1
+AccelerationScale = 0.64
