@@ -2,7 +2,7 @@
 A program based on Povohat's acceleration driver which will replicate the mouse acceleration of the Source Engine without the FPS based variance.
 <br>
 <br>
-Credits to: Povohat for the base, Valve for the acceleration curve, and Francisco Lopes for the interception library.
+Credits to: Povohat for the base (aka 99% of the code), Valve for the acceleration curve, and Francisco Lopes for the interception library.
 <br>
 The interception library <b>(required)</b> can be obtained here: https://github.com/oblitum/Interception
 #Setting up and building
